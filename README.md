@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# _staging
-=======
-# CS 225: Data Structures Assignment Repository
+# ece385-sp20
+Data Structures course taken at the Unviersity of Illinois at Urbana-Champaign
 
-This repository contains your code for CS 225!  Each assignment, you will merge in a set of starter files from the assignment into your `master` branch.  After working on your assignment, you must **commit and push** your work before the deadline for your work to be graded.
+# ⚠️ WARNING ⚠️
 
-You can find additional information, including assignment descriptions, by visiting the course webpage: https://courses.engr.illinois.edu/cs225/
->>>>>>> release/lab_heaps
+DO NOT COPY OR USE ANY MATERIALS UPLOADED ON THIS REPOSITORY, INCLUDING CODE AND LAB REPORTS. ALL FILES AND MATERIALS HAVE BEEN UPLOADED AS MEANS OF SAVING MY WORK. COPYING ANYTHING FROM THIS REPOSITORY COULD RESULT IN PLAGIARISM AND POSSIBLE EXPULSION. 
