@@ -1,4 +1,4 @@
-# ece385-sp20
+# cs225-sp20
 Data Structures course taken at the Unviersity of Illinois at Urbana-Champaign
 
 # ⚠️ WARNING ⚠️
